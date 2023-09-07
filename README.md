@@ -2,7 +2,9 @@
 Source code for my research project: ES Optimization for the MNIST Classification Task
 
 Course: IEOR E4540 Data Mining
+
 Instructor: Prof. Krzysztof Choromanski
+
 Author: Xingchen Ye
 
 # Abstract: 
