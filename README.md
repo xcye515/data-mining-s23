@@ -1,7 +1,7 @@
 # data-mining-s23
 Source code for my research project: ES Optimization for the MNIST Classification Task
 
-Author: Xingchen Ye (xy2527@columbia.edu)
+Author: Xingchen (Estella) Ye (xy2527@columbia.edu)
 
 Course Title: IEOR E4540 Data Mining, Spring 2023
 
