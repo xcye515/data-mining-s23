@@ -1,5 +1,5 @@
 # data-mining-s23
-Source code for my research project: ES Optimization for the MNIST Classification Task
+ML models and implementations for my research project: ES Optimization on the MNIST Classification Task
 
 Author: Xingchen (Estella) Ye (xy2527@columbia.edu)
 
